@@ -170,6 +170,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor4
       objectReference: {fileID: 0}
+    - target: {fileID: 4253084022089543800, guid: 5013338d8991c4e439a06196ec07994f, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 10ea842ac643c694a9966a7cd464832b, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
